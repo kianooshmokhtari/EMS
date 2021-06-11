@@ -7,6 +7,8 @@ import java.util.Scanner;
 //This is the class to handle userInputs for EMS
 public class UserInput {
 
+	//just another comment for git/github testing
+
 	private String firstName;
 	private String lastName;
 	private int salary;
