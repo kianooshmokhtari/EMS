@@ -4,6 +4,7 @@ import java.time.YearMonth;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+//This is the class to handle userInputs for EMS
 public class UserInput {
 
 	private String firstName;
