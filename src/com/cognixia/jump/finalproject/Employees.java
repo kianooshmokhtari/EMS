@@ -9,6 +9,8 @@ import java.time.LocalDate;;
 
 public class Employees {
 
+	//This is the Employee class
+
 	List<Employee> employees = new ArrayList<>();
 	int counter = 0;
 
