@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class EMS {
 
+//where program runs main method
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Employees employees = new Employees();
