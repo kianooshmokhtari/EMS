@@ -9,6 +9,8 @@ public class UserInput {
 
 	//just another comment for git/github testing
 
+	//another test
+
 	private String firstName;
 	private String lastName;
 	private int salary;
